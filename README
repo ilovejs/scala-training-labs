@@ -1,0 +1,18 @@
+=========================================
+=====SCALA TRAINING LAB INSTRUCTIONS=====
+=========================================
+
+The Scala training labs are divided into two modules:
+* labs
+* solutions
+
+You do your work in 'labs' and can check the 'solutions' for ideas on how to implement a solution.
+All labs are test-driven, so you workflow is something like this: 
+
+1. Uncomment the test in the lab you want to work on (in the 'labs' module)
+2. Run 'mvn test' and see it fail
+3. Fix the test so it compiles and passes 
+
+All labs have instructions on what you should do in the ScalaDoc in the code. 
+
+Enjoy, Jonas. 
